@@ -1,9 +1,9 @@
-# USA & Canada Public IPTV Channels
+# USA & Canada Public IPTV Channels 🇺🇸 🇨🇦
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](./LICENSE)
 
-A curated collection of publicly available, free-to-air (FTA) IPTV channels from the United States and Canada. 🇺🇸 🇨🇦
+A curated collection of publicly available, free-to-air (FTA) IPTV channels from the United States and Canada.
 
 This repository provides a community-maintained M3U playlist of television and radio channels that are legally and publicly available online. Our focus is on over-the-air (OTA) broadcast channels, public access stations, and other freely accessible streams.
 
