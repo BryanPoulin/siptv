@@ -1,7 +1,7 @@
 # USA & Canada Public IPTV Channels 🇺🇸 🇨🇦
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](./LICENSE)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](./LICENSE)
 
 A curated collection of publicly available, free-to-air (FTA) IPTV channels from the United States and Canada.
 
